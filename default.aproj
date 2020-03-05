@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<project ver="10" name="slideCpatcha" libEmbed="true" icon="..." ui="console" output="slideCpatcha.exe" CompanyName="xw" FileDescription="slideCpatcha" LegalCopyright="Copyright (C) xw 2020" ProductName="slideCpatcha" InternalName="slideCpatcha" FileVersion="0.0.0.09" ProductVersion="0.0.0.09" publishDir="/dist/" dstrip="false" local="false">
+	<file name="main.aardio" path="main.aardio" comment="启动程序代码"/>
+	<folder name="资源文件" path="res" embed="false" local="false"/>
+	<file name="1.jpg" path="1.jpg" comment="1.jpg"/>
+</project>
